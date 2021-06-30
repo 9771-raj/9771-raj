@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9771-raj
+- 👋 Hi, I’m Gaurav Raj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning nodejs and reactjs
 - 💞️ I’m looking to collaborate on project
