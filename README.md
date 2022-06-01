@@ -2,7 +2,7 @@
 
 * 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
-* 💻 Tech enthusiast, problem solving & loves gadgets.
+* 💻 Tech enthusiast, problem solving & explore new technology.
 * 🌈 Software Developer, Python Developer, Django Developer and ML/DL Enthusiast.
 * 🌈 Learning Machine Learning and Deep Learning for Data Scentist role.
 * 💡 Always open to collaborating on projects and innovative ideas. 
