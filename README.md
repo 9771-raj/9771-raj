@@ -7,7 +7,7 @@
 * 🌈 Learning Machine Learning and Deep Learning for Data Scentist role.
 * 💡 Always open to collaborating on projects and innovative ideas. 
 * 🔥 Achieved Gold Badge(5🌟) in Problem Solving on ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) https://www.hackerrank.com/GauravRaj980
-* 🔥 Solved 195+ Data Structures and Algorithms questions on ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/gaurav_raj980/ 
+* 🔥 Solved 500+ Data Structures and Algorithms questions on GeeksForGeeks and ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/gaurav_raj980/ 
 ---
 
 ## 🛰 Tech Stack
